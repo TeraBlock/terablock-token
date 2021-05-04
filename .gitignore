@@ -1,0 +1,13 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+coverage
+coverage.json
+
+.vscode
+.env
+.idea/
+.idea
