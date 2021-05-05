@@ -1,6 +1,15 @@
-# TeraBlock BEP20 Token Contract
+# TeraBlock Token Contract
 
-The TeraBlock BEP20 token contract running on the Binance Smart Chain.
+The TeraBlock token contract running on both the Binance Smart Chain & Ethereum Network.
+
+
+## Ethereum Network
+The deployed contract with verified source code can be found at the following address.
+
+Contract | Address
+---|---
+TeraBlockToken | 0xF
+
 
 ## Binance Smart Chain
 
@@ -11,7 +20,7 @@ Contract | Address
 TeraBlockToken | 0xF
 
 
-## Testnet Smart Chain
+## Testnet Chain
 The deployed contract with verified source code can be found at the following address.
 
 Contract | Address
