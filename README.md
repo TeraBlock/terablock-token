@@ -1,9 +1,9 @@
-# TeraBlock TBC Token Smart Contract
+# TeraBlock TBC Token Smart Contracts
 
-The TeraBlock token contract running on both the Binance Smart Chain & Ethereum Network.
+The TeraBlock token contract running on both the Binance Smart Chain & Ethereum BlockChain.
 
 
-## Ethereum Network
+## Ethereum BlockChain
 The deployed contract with verified source code can be found at the following address.
 
 Contract | Address
@@ -18,3 +18,28 @@ The deployed contract with verified source code can be found at the following ad
 Contract | Address
 ---|---
 TeraBlockToken | [0xeaf7d8395cce52daef138d39a1cefa51b97c15ae](https://bscscan.com/token/0xeaf7d8395cce52daef138d39a1cefa51b97c15ae)
+
+---
+
+## Pancakeswap Pairs contracts 
+
+Pair | Address
+---|---
+WBNB/TBC | [0xd054059187737fe2b22ce495f577ec7a50671fb0](https://bscscan.com/address/0xd054059187737fe2b22ce495f577ec7a50671fb0) | [Trade](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c&outputCurrency=0xeAF7D8395CCE52DAef138d39a1CEfA51b97C15aE)
+BUSD/TBC | [0x5948477262aa238df8f2e8144a4e7080fcdfbb5b](https://bscscan.com/address/0x5948477262aa238df8f2e8144a4e7080fcdfbb5b) | [Trade](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56&outputCurrency=0xeAF7D8395CCE52DAef138d39a1CEfA51b97C15aE)
+
+
+## UniSwap Pairs contracts 
+
+Pair | Address
+---|---
+WETH/TBC | [0x6ef9d85d027a62a4319121a9a1f4e6bfe00bd411](https://etherscan.io/address/0x6ef9d85d027a62a4319121a9a1f4e6bfe00bd411)
+
+---
+
+## Liquidity Token Lock
+
+Pair | Lock Address
+---|---
+WBNB/TBC | [0x70f24210E2d8DE5f0f540768c22b137C29F1Fe86](https://dxsale.app/app/pages/dxlockview?id=0&add=0x70f24210E2d8DE5f0f540768c22b137C29F1Fe86&type=lplock&chain=BSC) 
+WETH/TBC | [0x5a4d67ACB74038085e98DD85F4CccCb5972FBc92](https://dxsale.app/app/pages/dxlockview?id=0&add=0x5a4d67ACB74038085e98DD85F4CccCb5972FBc92&type=lplock&chain=ETH)
