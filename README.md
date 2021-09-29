@@ -4,7 +4,7 @@
 
 The TeraBlock token contract running on both the Binance Smart Chain & Ethereum BlockChain.
 
-## Security Audit by [Hacken](https://hacken.io): 
+## Security Audit by [Hacken](https://hacken.io):
 to be added
 
 ## Ethereum BlockChain
@@ -25,7 +25,7 @@ TeraBlockToken | [0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1](https://bscscan.co
 
 ---
 
-## Pancakeswap Pairs Contracts 
+## Pancakeswap Pairs Contracts
 
 Pair | Address
 ---|---
