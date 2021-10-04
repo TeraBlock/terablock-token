@@ -5,7 +5,7 @@
 The TeraBlock token contract running on both the Binance Smart Chain & Ethereum BlockChain.
 
 ## Security Audit by [Hacken](https://hacken.io):
-to be added
+https://hacken.io/wp-content/uploads/2021/10/Terablock_24092021SCAudit_Report-Token.pdf
 
 ## Ethereum BlockChain
 The deployed contract with verified source code can be found at the following address.
